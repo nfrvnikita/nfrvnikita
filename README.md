@@ -34,10 +34,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
-<a>
-<href="https://instagram.com/nikita.etoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/nikita.etoya" height="30" width="40" />
-</a>
-<a>
-<href="nfrv.nikita@gmail.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/rss.svg" alt="nfrv.nikita@gmail.com" height="30" width="40" />
-</a> 
+<a href="mailto:nfrv.nikita@gmail.com"><img src="https://img.shields.io/badge/-nfrv.nikita@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@nikita.etoya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/someunfeeling"><img src="https://img.shields.io/badge/-@someunfeeling-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
