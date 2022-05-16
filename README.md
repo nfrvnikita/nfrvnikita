@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://github.com/nfrvnikita/AnufrievNikita/blob/main/comp.gif" width='1200' align="center"/> 
+<img alt="Night Coding" src="https://github.com/nfrvnikita/nfrvnikita/blob/main/comp.gif" width='1200' align="center"/> 
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A machine learning engineer from Russia</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nfrvnikita&label=Profile%20views&color=ffa3a3&style=flat" alt="nfrvnikita" /> </p>
