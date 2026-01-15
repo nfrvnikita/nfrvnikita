@@ -19,6 +19,5 @@
 <h3 align="left">Мои социальные сети:</h3>
 <p align="left">
 <a href="mailto:nfrv.nikita@gmail.com"><img src="https://img.shields.io/badge/-nfrv.nikita@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@nikita.etoya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/someunfeeling"><img src="https://img.shields.io/badge/-@someunfeeling-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
